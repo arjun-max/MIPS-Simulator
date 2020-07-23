@@ -1,0 +1,20 @@
+Level 1 Cache
+
+cache size = 16
+block size = 4
+associativity = 2
+access latency of the cache = 2
+
+Level 2 Cache
+
+cache size = 32
+block size = 8
+associativity = 2
+access latency of the cache = 4
+
+main memory access time = 10
+
+provide access times in cycles and provide sizes in bytes
+
+for fully associative cache type fully
+for direct mapped cache put associativity as 1
